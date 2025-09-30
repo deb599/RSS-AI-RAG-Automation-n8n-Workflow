@@ -51,6 +51,6 @@ Sensitive endpoints and credentials are expected to be configured securely by th
 # Screenshots and Visuals
 <img width="1228" height="806" alt="Screenshot 2025-10-01 at 12 16 18 am" src="https://github.com/user-attachments/assets/dff6d92c-2479-4906-8cc2-eabf136d525a" />
 
-* json file available for purchase
+* json file and RSS list available for purchase at https://automationgirl.gumroad.com/l/iupjb
 # Author
 Debasmita Mukherjee
