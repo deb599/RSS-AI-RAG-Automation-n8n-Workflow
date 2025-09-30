@@ -6,11 +6,11 @@ This n8n workflow automates the process of curating and analyzing content from R
 # Key Features
 * RSS Feed Integration: Automatically fetches and processes multiple RSS feeds to gather the latest content on AI-related topics.
 
-* Content Parsing and Filtering: Uses AI-driven models to identify and assess risk factors in the gathered content.
+* Content Parsing and Filtering: Uses custom code to identify and assess risk factors in the gathered content using relevant key words.
 
-* Classification and Summarization: Summarizes large volumes of text and classifies them into relevant categories based on AI risk criteria.
+* Classification and Summarization: Summarizes large volumes of text and classifies them into relevant categories using generative AI.
 
-* Workflow Automation: Integrates REST APIs, HTTP requests, and custom JavaScript nodes to orchestrate complex processing with no-code/low-code design.
+* Workflow Automation: Integrates REST APIs, HTTP requests, and custom JavaScript nodes to orchestrate processing with no-code/low-code design.
 
 * Scalable and Adaptable: Designed for flexible configurations to add/remove feeds, update classification rules, or extend AI model integrations.
 
@@ -19,11 +19,9 @@ This n8n workflow automates the process of curating and analyzing content from R
 # How It Works (Abstracted)
 * Trigger and Fetch: The workflow starts by polling configured RSS feeds to fetch new content items.
 
-* Content Processing: Parses the feed items and applies AI models to evaluate AI risk relevance.
-
 * Filtering and Classification: Filters out low-risk or irrelevant content, classifies key information, and summarizes text for quick insight.
 
-* Output and Notification: Outputs results to chosen destinations such as databases, emails, dashboard tools, or feeds for further action.
+* Output and Notification: Outputs results to chosen destination.
 
 # Technologies and Tools
 * n8n for workflow automation
