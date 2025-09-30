@@ -16,7 +16,7 @@ This n8n workflow automates the process of curating and analyzing content from R
 
 * Multi-Agent Tool Integration: Leverages multi-agent orchestration for adaptive problem solving and dynamic content curation.
 
-# How It Works (Abstracted)
+# How It Works
 * Trigger and Fetch: The workflow starts by polling configured RSS feeds to fetch new content items.
 
 * Filtering and Classification: Filters out low-risk or irrelevant content, classifies key information, and summarizes text for quick insight.
@@ -55,6 +55,6 @@ Sensitive endpoints and credentials are expected to be configured securely by th
 # Screenshots and Visuals
 <img width="1228" height="806" alt="Screenshot 2025-10-01 at 12 16 18 am" src="https://github.com/user-attachments/assets/dff6d92c-2479-4906-8cc2-eabf136d525a" />
 
-
+* json file available on request
 # Author
 Debasmita Mukherjee
