@@ -41,16 +41,12 @@ This n8n workflow automates the process of curating and analyzing content from R
 
 * Customization points include:
 
-* Adding or updating RSS feeds
+- Adding or updating RSS feeds via Google sheets
 
-* Adjusting AI classification model parameters
-
-* Extending output integrations
-
-* Tailoring filtering thresholds
+- Tailoring filtering thresholds via chat input
 
 # Security and Privacy
-Sensitive endpoints and credentials are expected to be configured securely by the user. The shared workflow does not include sensitive keys or proprietary AI models for security reasons.
+Sensitive endpoints and credentials are expected to be configured securely by the user.
 
 # Screenshots and Visuals
 <img width="1228" height="806" alt="Screenshot 2025-10-01 at 12 16 18 am" src="https://github.com/user-attachments/assets/dff6d92c-2479-4906-8cc2-eabf136d525a" />
