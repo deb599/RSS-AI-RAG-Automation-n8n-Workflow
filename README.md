@@ -17,7 +17,9 @@ This n8n workflow automates the process of curating and analyzing content from R
 * Multi-Agent Tool Integration: Leverages multi-agent orchestration for adaptive problem solving and dynamic content curation.
 
 # How It Works
-* Trigger and Fetch: The workflow starts by polling configured RSS feeds to fetch new content items.
+* Trigger: The workflow starts by user entering inputs on the no. of days of RSS feed to fetch and link to Google sheets as per template
+
+* Fetch: Go through configured RSS feeds to fetch new content items.
 
 * Filtering and Classification: Filters out low-risk or irrelevant content, classifies key information, and summarizes text for quick insight.
 
