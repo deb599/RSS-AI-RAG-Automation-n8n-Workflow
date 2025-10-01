@@ -51,6 +51,11 @@ Sensitive endpoints and credentials are expected to be configured securely by th
 # Screenshots and Visuals
 <img width="826" height="329" alt="Screenshot 2025-10-01 at 11 14 22 am" src="https://github.com/user-attachments/assets/07829a97-4e91-4b1b-aa15-581ebd93ee9f" />
 
+Want to give it a spin? Just fill out the form below — it will trigger the workflow so you can see it in action:
+
+http://localhost:5678/form/8f4fa592-86fe-46d8-9da9-ba82086f54cf
+
+For feedback or questions, please use this form: https://forms.gle/REoHYFmh5xGVpH4w8
 
 * json file and RSS list available for purchase at https://automationgirl.gumroad.com/l/iupjb
 # Author
