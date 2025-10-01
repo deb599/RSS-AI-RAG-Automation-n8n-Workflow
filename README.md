@@ -49,7 +49,8 @@ This n8n workflow automates the process of curating and analyzing content from R
 Sensitive endpoints and credentials are expected to be configured securely by the user.
 
 # Screenshots and Visuals
-<img width="1228" height="806" alt="Screenshot 2025-10-01 at 12 16 18 am" src="https://github.com/user-attachments/assets/dff6d92c-2479-4906-8cc2-eabf136d525a" />
+<img width="826" height="329" alt="Screenshot 2025-10-01 at 11 14 22 am" src="https://github.com/user-attachments/assets/07829a97-4e91-4b1b-aa15-581ebd93ee9f" />
+
 
 * json file and RSS list available for purchase at https://automationgirl.gumroad.com/l/iupjb
 # Author
