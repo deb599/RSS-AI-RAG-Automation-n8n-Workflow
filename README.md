@@ -25,12 +25,6 @@ This n8n workflow automates the process of curating and analyzing content from R
 
 * Output and Notification: Outputs results to chosen destination.
 
-Want to give it a spin? Just fill out the form below — it will trigger the workflow so you can see it in action:
-
-http://localhost:5678/form/8f4fa592-86fe-46d8-9da9-ba82086f54cf
-
-For feedback or questions, please use this form: https://forms.gle/REoHYFmh5xGVpH4w8
-
 # Technologies and Tools
 * n8n for workflow automation
 
