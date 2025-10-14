@@ -1,4 +1,4 @@
-# RSS-AI-RAG-Automation---n8n-Workflow
+# RSS-Automation---n8n-Workflow
 
 # Overview
 This n8n workflow automates the process of curating and analyzing content from RSS feeds with the aim of filtering and classifying information related to AI risk topics. It uses a combination of automation pipelines and AI-powered analysis to parse incoming RSS data, assess risk relevance, and organize content for downstream processing or alerting.
